@@ -1,4 +1,4 @@
-# Day1-Leetcode--Pallidrome
+# Day1-Leetcode - Pallidrome
 Pallidrome using string slicing
 Problem solving apporach
 eg : Input num=121 Output: true
